@@ -104,6 +104,9 @@ header .logo {
 
 .main-content .top-content {
   padding: 0 10px;
+  display: flex;
+  flex-direction: column;
+  
 }
 
 .main-content .top-content .text-content {
